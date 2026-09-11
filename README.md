@@ -27,8 +27,14 @@
 
 ## ⬇️檔案下載
 
-## 🖼️展示
-<p align="center">
-  <img src="./imgs/showcase1.png" width="49%" />
-  <img src="./imgs/showcase2.png" width=49%" />
-</p>
+[按我一鍵下載](https://github.com/Johnson80331/SLEEPLESS_A_Midsummer_Night-s_Dream_Traditional_Chinese_Patch/raw/refs/heads/main/SLEEPLESS%20-A%20Midsummer%20Night%E2%80%99s%20Dream-%20%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87%E8%A3%9C%E4%B8%81%201.0.0.zip)或手動下載[SLEEPLESS -A Midsummer Night’s Dream- 繁體中文補丁 1.0.0.zip](./SLEEPLESS%20-A%20Midsummer%20Night’s%20Dream-%20繁體中文補丁%201.0.0.zip)
+
+## 🖼️截圖展示
+
+<details>
+<summary>按我展開</summary>
+
+![Screenshot showcase](./imgs/showcase1.png)
+![Screenshot showcase](./imgs/showcase2.png)
+
+</details>
